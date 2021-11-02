@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: 
+- certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2021-01-25"
-  description: "Participant, Rank 1 among students, I'm responsible for project design and bid writing."
+  description: Participant, Rank 1 among students, Project design and bid writing.
   organization: Hubei Key R&D Program, 1.3 million RMB
-  organization_url: 
-  title: Novel stem cell tissue engineering (A-T-CS/F-127) key technology for early femoral head necrosis: Mechanisms and clinical application
+  organization_url: https://www.edx.org
+  title: Novel stem cell tissue engineering (A-T-CS/F-127) key technology for early femoral head necrosis
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
