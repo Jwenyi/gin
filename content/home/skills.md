@@ -33,7 +33,7 @@ feature:
   icon_pack: fas
   name: Biological Experiments
 - description: Familiar
-  icon: python
+  icon: paw
   icon_pack: fas
   name: Animal Experiments
 - description: Familiar
