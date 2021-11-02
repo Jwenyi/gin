@@ -33,7 +33,7 @@ education:
       year: 2021
     - course: Master of Surgery
       institution: Wuhan University
-      year: 2017
+      year: 2018
 email: Gin1994@whu.edu.cn
 superuser: true
 highlight_name: true
