@@ -30,11 +30,8 @@ experience:
     date_start: '2021-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Orthopedics, First Clinical College
+
         
   - title: Professor of Semiconductor Physics
     company: University X
