@@ -32,11 +32,15 @@ feature:
   icon: vials
   icon_pack: fas
   name: Biological Experiments
-- description: Familiar
+- description: Proficient
   icon: braille
   icon_pack: fas
+  name: Animal Experiments
+ - description: Familiar
+  icon: paw
+  icon_pack: fas
   name: Nanomaterials
-  
+ 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
