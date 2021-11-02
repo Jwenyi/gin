@@ -32,8 +32,12 @@ feature:
   icon: vials
   icon_pack: fas
   name: Biological Experiments
- - description: Familiar
-  icon: paw
+- description: Proficient
+  icon: vials
+  icon_pack: fas
+  name: Animal Experiments
+- description: Familiar
+  icon: braille
   icon_pack: fas
   name: Nanomaterials
  
