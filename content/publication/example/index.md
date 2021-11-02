@@ -1,79 +1,72 @@
 ---
-title: "An example conference paper"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+abstract: Neuroblastoma (NBL) exists in a complex tumor-immune microenvironment.
+  Immune cell infiltration and tumor-immune molecules play a critical role in
+  tumor development and significantly impact the prognosis of patients. However,
+  the molecular characteristics describing the NBL-immune interaction and their
+  prognostic potential have yet to be investigated systematically. We first
+  employed multiple machine learning algorithms, such as Gene Sets Enrichment
+  Analysis and cell type identification by estimating relative subsets of RNA
+  transcripts, to identify immunophenotypes and immunological characteristics in
+  NBL patient data from public databases and then investigated the prognostic
+  potential and regulatory networks of identified immune-related genes involved
+  in the NBL-immune interaction. The immunity signature combining nine immunity
+  genes was confirmed as more effective for individual risk stratification and
+  survival outcome prediction in NBL patients than common clinical
+  characteristics (area under the curve [AUC] = 0.819, C-index = 0.718, p <
+  .001). A mechanistic exploration revealed the regulatory network of molecules
+  involved in the NBL-immune interaction. These immune molecules were also
+  discovered to possess a significant correlation with plasma cell infiltration,
+  MYCN status, and the level of chemokines and macrophage-related molecules (p <
+  .001). A nomogram was constructed based on the immune signature and clinical
+  characteristics, which showed high potential for prognosis prediction (AUC =
+  0.856, C-index = 0.755, p < .001). We systematically elucidated the complex
+  regulatory mechanisms and characteristics of the molecules involved in the
+  NBL-immune interaction and their prognostic potential, which may have
+  important implications for further understanding the molecular mechanism of
+  the NBL-immune interaction and identifying high-risk NBL patients to guide
+  clinical treatment.
+slides: ""
+url_pdf: ""
+publication_types:
+  - "2"
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
+  - W Jin
+  - Y Zhang
+  - Z Liu
+  - Z Che
+  - M Gao
+  - H Peng
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - Equal contribution
+  - Equal contribution
+publication: Journal of Cellular Physiology
+summary: We systematically elucidated the complex regulatory mechanisms and
+  characteristics of the molecules involved in the NBL-immune interaction and
+  their prognostic potential, which may have important implications for further
+  understanding the molecular mechanism of the NBL-immune interaction and
+  identifying high-risk NBL patients to guide clinical treatment.
+url_dataset: ""
+url_project: ""
+publication_short: J Cell Physiol
+url_source: ""
+url_video: ""
+title: Exploration of the molecular characteristics of the tumor–immune
+  interaction and the development of an individualized immune prognostic
+  signature for neuroblastoma
+doi: 10.1002/jcp.29842
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+tags: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  filename: featured.jpg
+date: 2021-01-14T18:17:07.911Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}
