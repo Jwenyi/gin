@@ -28,7 +28,15 @@ feature:
   icon: dna
   icon_pack: fas
   name: Bioinformatics
-
+- description: Proficient
+  icon: vials
+  icon_pack: fas
+  name: Biological Experiments
+- description: Familiar
+  icon: braille
+  icon_pack: fas
+  name: Nanomaterials
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
