@@ -25,7 +25,7 @@ experience:
   - title: Ph.D student
     company: Wuhan University
     company_url: ''
-    company_logo: book-open
+    company_logo: obp
     location: China
     date_start: '2021-09-01'
     date_end: ''
@@ -36,7 +36,7 @@ experience:
   - title: Master of Surgery
     company: Wuhan University
     company_url: ''
-    company_logo: book-open
+    company_logo: obp
     location: China
     date_start: '2018-09-01'
     date_end: '2021-06-01'
