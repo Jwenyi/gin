@@ -32,8 +32,8 @@ feature:
   icon: vials
   icon_pack: fas
   name: Biological Experiments
-- description: Proficient
-  icon: vials
+- description: Familiar
+  icon: python
   icon_pack: fas
   name: Animal Experiments
 - description: Familiar
