@@ -1,5 +1,5 @@
 ---
-widget: 55
+widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
