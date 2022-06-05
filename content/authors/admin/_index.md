@@ -38,4 +38,4 @@ email: Gin1994@whu.edu.cn
 superuser: true
 highlight_name: true
 ---
-Wenyi Jin is a surgeon, a Distinguished Bioinformatics Engineer at Hiplot.cn, and currently a fresh Ph.D student of Orthopaedic Surgery at Wuhan University. He has been awarded many honors such as the National Scholarship and the Outstanding Graduate of Wuhan University. Currently, he is working on precision therapies for refractory diseases and is particularly interested in machine learning/bioinformatics, nanomaterials, and precision oncology.
+Wenyi Jin is a surgeon, a Distinguished Bioinformatics Engineer at Hiplot.cn, and currently a Ph.D student jointly trained by City University of Hong Kong and Wuhan University. He has been awarded many honors such as the National Scholarship and the Outstanding Graduate of Wuhan University. Currently, he is working on precision therapies for refractory diseases and is particularly interested in machine learning/bioinformatics, nanomaterials, and precision oncology.
