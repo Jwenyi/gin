@@ -30,8 +30,8 @@ abstract: >
 draft: false
 featured: true
 image:
-  filename: graphical-abs.jpg
+  filename: featured.jpg
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 date: 2022-08-20T19:33:50.436Z
 ---
