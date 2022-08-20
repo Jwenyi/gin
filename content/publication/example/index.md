@@ -30,12 +30,12 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - W Jin
-  - Y Zhang
-  - Z Liu
-  - Z Che
-  - M Gao
-  - H Peng
+  - Wenyi Jin
+  - Yubiao Zhang
+  - Zilin Liu
+  - Zhifei Che
+  - Mingyong Gao
+  - Hao Peng
 author_notes:
   - Equal contribution
   - Equal contribution
