@@ -32,6 +32,6 @@ featured: true
 image:
   filename: graphical-abs.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 date: 2022-08-20T19:33:50.436Z
 ---
