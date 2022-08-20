@@ -54,7 +54,7 @@ title: Exploration of the molecular characteristics of the tumor–immune
   interaction and the development of an individualized immune prognostic
   signature for neuroblastoma
 doi: 10.1002/jcp.29842
-featured: true
+featured: false
 tags: []
 projects: []
 image:
@@ -64,7 +64,7 @@ image:
   filename: featured.jpg
 date: 2021-01-14T18:17:07.911Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
