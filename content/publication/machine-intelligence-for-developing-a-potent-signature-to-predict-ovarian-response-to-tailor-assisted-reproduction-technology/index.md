@@ -4,12 +4,12 @@ title: Machine-intelligence for developing a potent signature to predict ovarian
 publication_types:
   - "2"
 authors:
-  - S Yan
-  - W Jin
-  - J Ding
-  - T Yin
-  - Y Zhang
-  - J Yang
+  - Sisi Yan
+  - Wenyi Jin
+  - Jingli Ding
+  - Tailang Yin
+  - Yi Zhang
+  - Jing Yang
 author_notes:
   - Equal contribution
   - Equal contribution
