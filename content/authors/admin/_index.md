@@ -26,6 +26,8 @@ social:
 organizations:
   - name: Wuhan University
     url: https://www.whu.edu.cn/
+  - name: City University of Hong Kong
+    url: https://cityu.edu.hk/
 education:
   courses:
     - course: Ph.D student of Biomedical Science
