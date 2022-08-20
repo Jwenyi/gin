@@ -128,7 +128,7 @@ map:
   zoom: 15
 marketing:
   google: 'google-site-verification=nXoGmRAHXq-bwuU1U_EjBaCLBUMZh3zghB2A2OTEHro'
-  google_analytics: ''
+  google_analytics: 'UA-238138902-1'
   google_tag_manager: ''
   google_site_verification: 'google-site-verification=nXoGmRAHXq-bwuU1U_EjBaCLBUMZh3zghB2A2OTEHro'
   baidu_site_verification: ''
