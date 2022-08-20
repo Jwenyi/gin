@@ -7,7 +7,7 @@
 
 theme: minimal
 day_night: true
-font: ''
+font: 'Mr Robot'
 font_size: L
 
 # SEO
@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: Gin1994@whu.edu.cn
+email: gin1994@whu.edu.cn
 phone: 027 88041911
 address:
   street: Zhangzhidong Road
@@ -32,7 +32,7 @@ address:
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
-directions: The first clinical college of WHU
+directions: The First Clinical College of Wuhan University
 office_hours:
   - 'Any time'
 contact_links:
