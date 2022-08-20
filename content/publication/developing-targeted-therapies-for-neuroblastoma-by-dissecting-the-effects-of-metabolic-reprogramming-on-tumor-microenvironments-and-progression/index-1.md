@@ -1,6 +1,7 @@
 ---
-title: Developing targeted therapies for neuroblastoma by dissecting the effects
-  of metabolic reprogramming on tumor microenvironments and progression
+title: "Developing targeted therapies for neuroblastoma by dissecting the
+  effects of metabolic reprogramming on tumor microenvironments and progression
+  "
 publication_types:
   - "2"
 authors:
