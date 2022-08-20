@@ -5,9 +5,9 @@ title: "Associations between fear of falling and activity restriction and late
 publication_types:
   - "2"
 authors:
-  - Q Yao
-  - W Jin
-  - Y Li
+  - Qian Yao
+  - Wenyi Jin
+  - Yan Li
 author_notes:
   - Equal contribution
   - Equal contribution
