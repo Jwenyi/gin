@@ -4,11 +4,14 @@ title: "The Effect of Individual Musculoskeletal Conditions on Depression:
 publication_types:
   - "2"
 authors:
-  - W Jin
-  - Z Liu
-  - Y Zhang
-  - Z Che
-  - M Gao
+  - Wenyi Jin
+  - Zilin Liu
+  - Yubiao Zhang
+  - Zhifei Che
+  - Mingyong Gao
+author_notes:
+  - Equal contribution
+  - Equal contribution
 doi: 10.3389/fmed.2021.697649
 publication: Frontiers in medicine
 publication_short: Front Med
