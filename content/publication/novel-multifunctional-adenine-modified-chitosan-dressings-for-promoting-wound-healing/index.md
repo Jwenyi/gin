@@ -19,11 +19,11 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - P Deng
-  - W Jin
-  - Z Liu
-  - M Gao
-  - J Zhou
+  - Pengpeng Deng
+  - Wenyi Jin
+  - Zilin Liu
+  - Mingyong Gao
+  - Jinping Zhou
 author_notes:
   - Equal Contribution
   - Equal Contribution
