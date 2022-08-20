@@ -28,15 +28,15 @@ organizations:
     url: https://www.whu.edu.cn/
 education:
   courses:
+    - course: Ph.D student of Biomedical Science
+      institution: City University of Hong Kong
+      year: 2022
     - course: Ph.D student of Orthopedics
       institution: Wuhan University
       year: 2021
     - course: Master of Surgery
       institution: Wuhan University
       year: 2018
-    - course: Ph.D student of Biomedical Science
-      institution: City University of Hong Kong
-      year: 2022
 email: gin1994@whu.edu.cn
 superuser: true
 highlight_name: true
