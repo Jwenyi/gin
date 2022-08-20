@@ -3,13 +3,13 @@ title: Do eye diseases increase the risk of arthritis in the elderly population?
 publication_types:
   - "2"
 authors:
-  - W Jin
-  - Q Yao
-  - Z Liu
-  - W Cao
-  - Y Zhang
-  - Z Che
-  - H Peng
+  - Wenyi Jin
+  - Qian Yao
+  - Zilin Liu
+  - Wenli Cao
+  - Yubiao Zhang
+  - Zhifei Che
+  - Hao Peng
 author_notes:
   - Equal contribution
   - Equal contribution
