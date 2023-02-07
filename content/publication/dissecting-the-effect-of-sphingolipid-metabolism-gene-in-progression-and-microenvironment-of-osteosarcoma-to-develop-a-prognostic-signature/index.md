@@ -23,6 +23,7 @@ author_notes:
   - Corresponding author
   - Corresponding author
 doi: 10.3389/fendo.2022.1030655
+publication: Frontiers in Endocrinology
 abstract: Sphingolipid metabolism (SM) fuels tumorigenesis and the malignant
   progression of osteosarcoma (OS), which leads to an unfavorable prognosis.
   Elucidating the molecular mechanisms underlying SM in osteosarcoma and
